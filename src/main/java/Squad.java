@@ -12,4 +12,13 @@ public class Squad {
     public String getName(){
         return mName;
     }
+
+    public int getMaximumSize() {
+        return mMaxSize;
+    }
+
+    public String getReason() {
+        return mReason;
+    }
+
 }
