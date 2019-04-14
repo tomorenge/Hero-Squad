@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67f7481c-438c-487b-9081-0f02d970e60e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/spark/template/velocity/VelocityTemplateEngine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -71,6 +71,15 @@
                 <element signature="e#0#2527#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spark/template/velocity/layout.vtl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -148,6 +157,7 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/VelocityTemplateEngine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/template/velocity/layout.vtl" />
       </list>
     </option>
   </component>
@@ -424,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555202992940</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&#10;created VelocityTemplateEngine.java file&#10;ceated layout.vtl file">
+      <created>1555203386142</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555203386142</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -502,7 +519,8 @@
     <MESSAGE value="&#10;added one more test&#10;updated build.gradle file" />
     <MESSAGE value="&#10;created .gitignore file" />
     <MESSAGE value="&#10;created VelocityTemplateEngine.java file" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;created VelocityTemplateEngine.java file" />
+    <MESSAGE value="&#10;created VelocityTemplateEngine.java file&#10;ceated layout.vtl file" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;created VelocityTemplateEngine.java file&#10;ceated layout.vtl file" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -582,6 +600,13 @@
             <element signature="e#0#2527#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/template/velocity/layout.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
