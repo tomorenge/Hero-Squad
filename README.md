@@ -9,3 +9,8 @@ A Spark app that allows you to recruit a well-balanced team of superheroes to fi
 3 .gradle
 
 4 .jUnit
+
+# usage
+1. Clone this repo
+2. Compile  `gradle compileJava`
+
