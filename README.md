@@ -15,4 +15,4 @@ A Spark app that allows you to recruit a well-balanced team of superheroes to fi
 2. Compile  `gradle compileJava`
 
 ## license
-Licensed under the [MIT License] (https://github.com/tomorenge/Hero-Squad/blob/master/LICENCE)
+Licensed under the [MIT LICENCE] (https://github.com/tomorenge/Hero-Squad/blob/master/LICENCE)
