@@ -52,4 +52,7 @@ public class Hero {
     public int getId() {
         return mId;
     }
+
+
 }
+

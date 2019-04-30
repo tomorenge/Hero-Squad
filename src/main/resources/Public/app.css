@@ -1,0 +1,44 @@
+body
+{
+overflow:hidden;
+}
+
+.indexPage{
+ background-image: url("/images/heroes.jpg");
+ height: 100vh;
+ width: 100vw;
+}
+
+.content
+{
+    color: #fff;
+    height: 100%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: centre;
+
+    text-align: centre;
+    margin-left: 40%;
+    margin-top: 30%;
+}
+
+
+
+  .squad{
+    color: #fff;
+        height: 10%;
+        width: 30%;
+        display: flex;
+        flex-direction: column;
+        justify-content: centre;
+
+        text-align: centre;
+        margin-left: 40%;
+        margin-top: 30%;
+  }
+
+body{
+background-color:black;
+background-image:url("https://i2.wp.com/www.smartprix.com/bytes/wp-content/uploads/2018/02/thor-wallpaper-17359-17917-hd-wallpapers-1.jpg?resize=696%2C391&ssl=1");
+}

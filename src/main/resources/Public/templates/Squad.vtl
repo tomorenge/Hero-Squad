@@ -1,9 +1,8 @@
 <h1>All squads</h1>
+<br>
+<a href="/">Add New Squad</a><br>
 <ul>
   #foreach ($squad in $squads)
     <li><a href="/squads/$squad.getId()">$squad.getName()</a></li>
   #end
 </ul>
-<p>
-<a href="/">Add New Squad</a>
-</p>
